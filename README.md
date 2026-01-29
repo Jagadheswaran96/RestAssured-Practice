@@ -42,5 +42,5 @@ This repository is designed to help SDETs and QA engineers quickly set up a work
 
 ## ▶️ How to Run Tests
 1. Clone the repository:
-2. ```bash git clone https://github.com/Jagadheswaran96/restassured-practice.git
+2. bash git clone https://github.com/Jagadheswaran96/restassured-practice.git
 cd restassured-practice
