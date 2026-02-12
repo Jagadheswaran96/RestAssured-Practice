@@ -26,11 +26,6 @@
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/graphics2d-0.30.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/gson-2.8.0.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpclient-4.5.2.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpclient5-5.0.3.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpcore-4.4.4.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpcore5-5.0.2.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpcore5-h2-5.0.2.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpmime-4.5.2.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/jarchivelib-1.1.0.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/javax.mail.jar"/>
@@ -52,7 +47,6 @@
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/poi-ooxml-lite-5.0.0.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/poi-scratchpad-5.0.0.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/SparseBitSet-1.2.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/webdrivermanager-4.4.3.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/xml-apis-ext-1.3.04.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/xmlbeans-4.0.0.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/xmlgraphics-commons-2.4.jar"/>
@@ -78,5 +72,9 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/slf4j-api-2.0.15.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/slf4j-simple-2.0.15.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpclient5-5.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpcore5-5.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/Jars/httpcore5-h2-5.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/Jars/webdrivermanager-6.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
